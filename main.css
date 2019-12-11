@@ -1,6 +1,17 @@
 /*DEVELOPER: Jersey Ibe, IS117-005, Fall, 2019 */
 
-
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: aliceblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.5rem;
+}
+  
 body div {
   padding-bottom: 15px;
 }
