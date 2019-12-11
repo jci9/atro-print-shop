@@ -1,0 +1,14 @@
+/*DEVELOPER: Jersey Ibe, IS117-005, Fall, 2019 */
+
+
+body div {
+  padding-bottom: 15px;
+}
+
+.center_text {
+  text-align: center;
+}
+
+#paintingCarousel div img {
+  max-height: 50%;
+}
